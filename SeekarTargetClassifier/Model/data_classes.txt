@@ -1,0 +1,15 @@
+Antlered
+Other
+Antlerless
+Coyote
+Wolf
+Turkey
+DeerBuck
+DeerDoe
+ElkBull
+ElkCow
+Human
+Bear
+Pig
+BigGame
+Canine

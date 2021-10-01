@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb2dfdf3-cc97-4fb4-b438-bf02b79afa57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vpWMIbRc02avlTugcR0kdqYOP7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeekarTargetClassifierBareBones" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\kkfra\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.predict" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb2dfdf3-cc97-4fb4-b438-bf02b79afa57" name="Default Changelist" comment="" />
+      <created>1627259460758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627259460758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="375" y="-757" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631730691759">
+      <screen x="-306" y="-1080" width="3840" height="1040" />
+    </state>
+    <state x="375" y="-757" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.960/-306.-1080.3840.1040@-306.-1080.3840.1040" timestamp="1631730691759" />
+    <state x="385" y="-946" key="#predict" timestamp="1631723002580">
+      <screen x="-306" y="-1080" width="3840" height="1040" />
+    </state>
+    <state x="385" y="-946" key="#predict/0.0.1500.960/-306.-1080.3840.1040@-306.-1080.3840.1040" timestamp="1631723002580" />
+    <state width="1480" height="279" key="GridCell.Tab.0.bottom" timestamp="1631837613732">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1896" height="279" key="GridCell.Tab.0.bottom/0.0.1500.960/-306.-1080.3840.1040@-306.-1080.3840.1040" timestamp="1631828555602" />
+    <state width="1480" height="279" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1631837613732" />
+    <state width="1480" height="279" key="GridCell.Tab.0.center" timestamp="1631837613731">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1896" height="279" key="GridCell.Tab.0.center/0.0.1500.960/-306.-1080.3840.1040@-306.-1080.3840.1040" timestamp="1631828555602" />
+    <state width="1480" height="279" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1631837613731" />
+    <state width="1480" height="279" key="GridCell.Tab.0.left" timestamp="1631837613731">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1896" height="279" key="GridCell.Tab.0.left/0.0.1500.960/-306.-1080.3840.1040@-306.-1080.3840.1040" timestamp="1631828555599" />
+    <state width="1480" height="279" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1631837613731" />
+    <state width="1480" height="279" key="GridCell.Tab.0.right" timestamp="1631837613732">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1896" height="279" key="GridCell.Tab.0.right/0.0.1500.960/-306.-1080.3840.1040@-306.-1080.3840.1040" timestamp="1631828555602" />
+    <state width="1480" height="279" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1631837613732" />
+  </component>
+</project>
